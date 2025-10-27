@@ -9,5 +9,5 @@ The model is trained on **IMDB movie reviews** using **TF-IDF vectorization** an
 
 ## 🔗 Try the App Online
 You can test the app directly without installing anything:  
-[Click Here to Open the App]()
+[Click Here to Open the App](https://sentiment-analyzer-app-yrhf4zamvqsvubnzk7jq3s.streamlit.app/)
 
